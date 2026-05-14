@@ -1,0 +1,6 @@
+{
+  "name": "Aria: Personal AI Life Assistant",
+  "description": "A personal task management assistant with a human-like personality, customizable avatar, and voice interaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
